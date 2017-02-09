@@ -1,2 +1,4 @@
 # hello-world
-First Try
+Hello!
+
+I dont know what I'm doing :)
